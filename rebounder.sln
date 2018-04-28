@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rebounder", "Assembly-CSharp.csproj", "{593EF0E2-BC5D-016F-9FEB-EB1668502C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rebounder", "Assembly-CSharp-firstpass.csproj", "{B5646F87-5F8B-3711-AD08-9434C8DFB3B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rebounder", "Assembly-CSharp-Editor-firstpass.csproj", "{EDC60EB4-5978-A58A-5B66-262747675E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593EF0E2-BC5D-016F-9FEB-EB1668502C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593EF0E2-BC5D-016F-9FEB-EB1668502C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593EF0E2-BC5D-016F-9FEB-EB1668502C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593EF0E2-BC5D-016F-9FEB-EB1668502C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5646F87-5F8B-3711-AD08-9434C8DFB3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5646F87-5F8B-3711-AD08-9434C8DFB3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5646F87-5F8B-3711-AD08-9434C8DFB3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5646F87-5F8B-3711-AD08-9434C8DFB3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC60EB4-5978-A58A-5B66-262747675E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC60EB4-5978-A58A-5B66-262747675E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC60EB4-5978-A58A-5B66-262747675E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC60EB4-5978-A58A-5B66-262747675E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
